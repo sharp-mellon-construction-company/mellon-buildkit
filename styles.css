@@ -361,7 +361,6 @@ section {
   grid-template-columns: repeat(2, 1fr);
   gap: 1px;
   background: var(--line-light);
-  border: 1px solid var(--line-light);
 }
 @media (max-width: 760px) {
   .sheet-grid {
